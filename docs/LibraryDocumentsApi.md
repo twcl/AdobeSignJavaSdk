@@ -31,8 +31,8 @@ Creates a template that is placed in the library of the user for reuse.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -80,8 +80,8 @@ Retrieves the latest state view url of a library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -133,8 +133,8 @@ Retrieves the combined document associated with a library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -186,8 +186,8 @@ Retrieves the IDs of the documents associated with library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -239,8 +239,8 @@ Retrieves the events information for a library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -292,8 +292,8 @@ This API can only be called by the creator of the library document
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -343,8 +343,8 @@ Retrieves the file stream of a document of library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -396,8 +396,8 @@ Retrieves the audit trail associated with a library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -447,8 +447,8 @@ Retrieves image urls of all visible pages of a document associated with a librar
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -506,8 +506,8 @@ Retrieves the details of a library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -557,8 +557,8 @@ Retrieves the latest note of a library document for the API user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -606,8 +606,8 @@ Retrieves library documents for a user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -661,8 +661,8 @@ Currently status, name, sharingMode and templateTypes of the library document ca
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -713,8 +713,8 @@ Updates the latest note of a library document for the API user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -765,8 +765,8 @@ Currently state can be changed from AUTHORING to ACTIVE.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();
@@ -817,8 +817,8 @@ Updates the visibility of library document.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.LibraryDocumentsApi;
+//import ApiException;
+//import LibraryDocumentsApi;
 
 
 LibraryDocumentsApi apiInstance = new LibraryDocumentsApi();

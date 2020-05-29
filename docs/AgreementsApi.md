@@ -53,8 +53,8 @@ Adds template fields to an agreement
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -108,8 +108,8 @@ This is a primary endpoint which is used to create a new agreement. An agreement
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -157,8 +157,8 @@ Retrieves the latest state view url of agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -210,8 +210,8 @@ Participants marked as delegator can call this API endpoint.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -261,8 +261,8 @@ Creates a reminder on the specified participants of an agreement identified by a
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -312,8 +312,8 @@ Share an agreement with someone.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -363,8 +363,8 @@ Deletes all the documents of an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -413,8 +413,8 @@ Retrieves the current status of an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -464,8 +464,8 @@ Retrieves the latest note associated with an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -513,8 +513,8 @@ Retrieves a specific reminder associated with an agreement
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -564,8 +564,8 @@ Retrieves the reminders of an agreement, identified by agreementId in the path.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -615,8 +615,8 @@ Retrieves the security options for a particular participant.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -668,8 +668,8 @@ Retrieves agreements for the user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -723,8 +723,8 @@ Retrieves the IDs of the documents of an agreement identified by agreementId.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -780,8 +780,8 @@ Retrieves image urls of all visible pages of all the documents associated with a
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -839,8 +839,8 @@ Retrieves information of members of the agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -894,8 +894,8 @@ PDF file stream containing audit trail information
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -945,8 +945,8 @@ Retrieves a single combined PDF document for the documents associated with an ag
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1004,8 +1004,8 @@ Retrieves info of all pages of a combined PDF document for the documents associa
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1057,8 +1057,8 @@ Retrieves url of all visible pages of all the documents associated with an agree
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1114,8 +1114,8 @@ Retrieves the file stream of a document of an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1167,8 +1167,8 @@ Retrieves image urls of all visible pages of a document associated with an agree
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1226,8 +1226,8 @@ Retrieves the events information for an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1279,8 +1279,8 @@ This API can only be called by the creator of the agreement
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1330,8 +1330,8 @@ Retrieves details of form fields of an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1383,8 +1383,8 @@ Retrieves the merge info stored with an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1432,8 +1432,8 @@ Retrieves the participant set of an agreement identified by agreementId in the p
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1485,8 +1485,8 @@ Retrieves the URL for the e-sign page for the current signer(s) of an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1534,8 +1534,8 @@ Rejects the agreement for a participant.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1588,8 +1588,8 @@ Updates the agreement in draft state, or update the expirationTime on an existin
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1640,8 +1640,8 @@ Set the merge info for an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1692,8 +1692,8 @@ Updates the latest note associated with an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1744,8 +1744,8 @@ You can only update an ACTIVE reminder, and can only update the status to &#39;C
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1796,8 +1796,8 @@ Updates the security options for a particular participant.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1852,8 +1852,8 @@ This endpoint can be used by originator/sender of an agreement to transition bet
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1904,8 +1904,8 @@ Updates the visibility of an agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -1954,8 +1954,8 @@ Updates form fields of an agreement.  This will replace all fields in AUTHORING 
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();
@@ -2007,8 +2007,8 @@ Updates the participant set of an agreement identified by agreementId in the pat
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.AgreementsApi;
+//import ApiException;
+//import AgreementsApi;
 
 
 AgreementsApi apiInstance = new AgreementsApi();

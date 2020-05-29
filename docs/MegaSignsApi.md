@@ -27,8 +27,8 @@ This is a primary endpoint which is used to create a new megaSign. A megaSign ca
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -78,8 +78,8 @@ CSV file stream containing form data information
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -131,8 +131,8 @@ Retrieves the events information for the MegaSign parent agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -182,8 +182,8 @@ Get all the child agreements of the specified MegaSign parent agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -235,8 +235,8 @@ Retrieves a single combined PDF document for the documents associated with the M
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -290,8 +290,8 @@ CSV file stream containing form data information
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -339,8 +339,8 @@ Get detailed information of the specified MegaSign parent agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -390,8 +390,8 @@ Retrieves the requested views of mega sign agreement.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -441,8 +441,8 @@ Retrieves MegaSign parent agreements for a user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();
@@ -494,8 +494,8 @@ This endpoint can be used by creator of the MegaSign to transition between the s
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.MegaSignsApi;
+//import ApiException;
+//import MegaSignsApi;
 
 
 MegaSignsApi apiInstance = new MegaSignsApi();

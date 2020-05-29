@@ -75,9 +75,9 @@ Sample SDK Usage
 import java.io.File;
 import io.swagger.client.ApiClient;
 import io.swagger.client.ApiException;
-import io.swagger.client.api.AgreementsApi;
-import io.swagger.client.api.BaseUrisApi;
-import io.swagger.client.api.TransientDocumentsApi;
+import AgreementsApi;
+import BaseUrisApi;
+import TransientDocumentsApi;
 import io.swagger.client.model.AgreementCreationResponse;
 import io.swagger.client.model.AgreementInfo;
 import io.swagger.client.model.BaseUriInfo;

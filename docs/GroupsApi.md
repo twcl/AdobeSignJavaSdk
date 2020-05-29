@@ -18,8 +18,8 @@ Retrieves detailed information about the group.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.GroupsApi;
+//import ApiException;
+//import GroupsApi;
 
 
 GroupsApi apiInstance = new GroupsApi();
@@ -65,8 +65,8 @@ Retrieves all the groups in an account.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.GroupsApi;
+//import ApiException;
+//import GroupsApi;
 
 
 GroupsApi apiInstance = new GroupsApi();
@@ -114,8 +114,8 @@ Retrieves all the users in a group.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.GroupsApi;
+//import ApiException;
+//import GroupsApi;
 
 
 GroupsApi apiInstance = new GroupsApi();

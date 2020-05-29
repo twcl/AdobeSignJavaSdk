@@ -18,8 +18,8 @@ The document uploaded through this call is referred to as transient since it is 
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.TransientDocumentsApi;
+//import ApiException;
+//import TransientDocumentsApi;
 
 
 TransientDocumentsApi apiInstance = new TransientDocumentsApi();

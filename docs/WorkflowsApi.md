@@ -16,8 +16,8 @@ Retrieves workflows for a user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WorkflowsApi;
+//import ApiException;
+//import WorkflowsApi;
 
 
 WorkflowsApi apiInstance = new WorkflowsApi();

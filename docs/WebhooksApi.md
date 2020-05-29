@@ -23,8 +23,8 @@ This is a primary endpoint which is used to create a new webhook. A webhook can 
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WebhooksApi;
+//import ApiException;
+//import WebhooksApi;
 
 
 WebhooksApi apiInstance = new WebhooksApi();
@@ -72,8 +72,8 @@ Deletes a webhook.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WebhooksApi;
+//import ApiException;
+//import WebhooksApi;
 
 
 WebhooksApi apiInstance = new WebhooksApi();
@@ -122,8 +122,8 @@ Retrieves the details of a webhook.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WebhooksApi;
+//import ApiException;
+//import WebhooksApi;
 
 
 WebhooksApi apiInstance = new WebhooksApi();
@@ -173,8 +173,8 @@ Retrieves webhooks for a user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WebhooksApi;
+//import ApiException;
+//import WebhooksApi;
 
 
 WebhooksApi apiInstance = new WebhooksApi();
@@ -230,8 +230,8 @@ Updates a webhook.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WebhooksApi;
+//import ApiException;
+//import WebhooksApi;
 
 
 WebhooksApi apiInstance = new WebhooksApi();
@@ -282,8 +282,8 @@ Updates the state of a webhook identified by webhookId in the path.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WebhooksApi;
+//import ApiException;
+//import WebhooksApi;
 
 
 WebhooksApi apiInstance = new WebhooksApi();

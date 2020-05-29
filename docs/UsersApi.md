@@ -22,8 +22,8 @@ Retrieves the groups of the user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();
@@ -69,8 +69,8 @@ Retrieves detailed information about the user in the caller account.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();
@@ -116,8 +116,8 @@ Retrieves the URL of manage, account settings and user profile page.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();
@@ -167,8 +167,8 @@ Retrieves all the users in an account.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();
@@ -216,8 +216,8 @@ Update an user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();
@@ -264,8 +264,8 @@ Activate/Deactivate a given user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();
@@ -313,8 +313,8 @@ Updates the groups of the user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.UsersApi;
+//import ApiException;
+//import UsersApi;
 
 
 UsersApi apiInstance = new UsersApi();

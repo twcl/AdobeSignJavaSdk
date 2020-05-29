@@ -37,8 +37,8 @@ Share a widget with someone.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -90,8 +90,8 @@ This is a primary endpoint which is used to create a new widget. You can create 
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -139,8 +139,8 @@ Retrieves detailed member info along with IDs for different types of participant
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -190,8 +190,8 @@ Retrieves the events information for a widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -241,8 +241,8 @@ Retrieves the participant set of a widget identified by widgetId in the path.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -294,8 +294,8 @@ Retrieves agreements for the widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -349,8 +349,8 @@ Retrieves image urls of all visible pages of a document associated with a widget
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -404,8 +404,8 @@ Retrieves the audit trail of a widget identified by widgetId.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -455,8 +455,8 @@ Retrieves a single combined PDF document for the documents associated with a wid
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -512,8 +512,8 @@ Retrieves the file stream of a document of a widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -565,8 +565,8 @@ Retrieves the IDs of the documents associated with widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -622,8 +622,8 @@ CSV file stream containing form data information
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -671,8 +671,8 @@ Retrieves the details of a widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -722,8 +722,8 @@ Retrieves the latest note of a widget for the API user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -771,8 +771,8 @@ Retrieves the security options for a particular participant.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -824,8 +824,8 @@ Retrieves the requested views for a widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -875,8 +875,8 @@ Retrieves widgets for a user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -928,8 +928,8 @@ Updates a widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -980,8 +980,8 @@ Updates the latest note of a widget for the API user.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -1030,8 +1030,8 @@ Updates the security options for a particular participant.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -1086,8 +1086,8 @@ This endpoint can be used by creator of the widget to transition between the sta
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
@@ -1138,8 +1138,8 @@ Updates the visibility of widget.
 ### Example
 ```java
 // Import classes:
-//import io.swagger.client.model.ApiException;
-//import io.swagger.client.api.WidgetsApi;
+//import ApiException;
+//import WidgetsApi;
 
 
 WidgetsApi apiInstance = new WidgetsApi();
